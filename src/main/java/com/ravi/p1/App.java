@@ -4,7 +4,7 @@ package com.ravi.p1;
  * Hello world!
  *
  */
- public lass App  
+ public class App  
 {
     public static void main( String[] args )
     {
