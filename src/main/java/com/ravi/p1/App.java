@@ -8,8 +8,6 @@ package com.ravi.p1;
 {
     public static void main( String[] args )
     {
-        System.out.println( "Building With JENKINS" );
-        System.out.println( "Testing Webhooks" );
-        System.out.println( "SDLC Management Successfull" );
+        System.out.println( "COD implemented" );
     }
 }
