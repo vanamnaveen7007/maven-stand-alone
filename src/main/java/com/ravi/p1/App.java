@@ -5,7 +5,7 @@ import org.apache.log4j.Logger;
  * Hello world!
  *
  */
- public class App  
+ public lass App  
 {
    
     // Implemenet Log4j for debug
