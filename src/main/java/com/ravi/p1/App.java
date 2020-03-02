@@ -5,6 +5,6 @@ public class App
    
     public static void main( String[] args )
     {
-        System.out.println( "COD implemented" );
+        System.out.println( "Master Slave Test On Node1" );
     }
 }
