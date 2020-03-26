@@ -5,6 +5,6 @@ public class App
    
     public static void main( String[] args )
     {
-        System.out.println( "Check from Local Workstation" );
+        System.out.println( "WebHook Test" );
     }
 }
