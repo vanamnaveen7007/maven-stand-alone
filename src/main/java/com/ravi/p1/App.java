@@ -1,6 +1,6 @@
 package com.ravi.p1;
 
-public lass App  
+public class App  
 {
    
     public static void main( String[] args )
