@@ -5,6 +5,6 @@ public class App
    
     public static void main( String[] args )
     {
-        System.out.println( "Executed on Master" );
+        System.out.println( "Welcome To Java" );
     }
 }
